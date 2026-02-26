@@ -1,2 +1,2 @@
 # HabitFlowTests
-Тесты Java + Playwright
+Тесты Java + RestAssured
